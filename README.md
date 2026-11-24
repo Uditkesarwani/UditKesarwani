@@ -20,9 +20,10 @@
 
 ---
 
+<!-- ═════════════════════════ ABOUT ═════════════════════════ -->
 ## 👋 About Me
 
-I'm a **Full Stack Developer** at **Bitmax Technology Pvt. Ltd., Noida**, where I build enterprise HRM and communication tools used daily by the whole office. I enjoy working across the stack — from polished React/Next.js interfaces to REST APIs and real-time systems.
+I'm a **Full Stack Developer** at **Bitmax Technology Pvt. Ltd., Noida**, where I build enterprise HRM and communication tools used daily by the whole office. I enjoy working across the stack, from polished React/Next.js interfaces to REST APIs and real-time systems.
 
 ```js
 const udit = {
@@ -39,34 +40,47 @@ const udit = {
 
 ### 📈 Impact at a Glance
 
+<div align="center">
+
 | 🚀 | 🔁 | 💬 | 📦 |
 |:---:|:---:|:---:|:---:|
-| **161 APIs**<br/>migrated PHP → Node.js | **35 employees**<br/>use the attendance system | **35 employees**<br/>use the office chat app | **5+ projects**<br/>shipped end to end |
+| **161 APIs**<br/>migrated PHP → Node.js | **35 employees**<br/>use the attendance system | **35 employees**<br/>use the office chat app | **5+ projects**<br/>built & delivered |
+
+</div>
 
 ---
 
+<!-- ═════════════════════════ TECH STACK ═════════════════════════ -->
 ## 🛠️ Tech Stack
 
-**⚡ Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,bootstrap,html,css" alt="frontend" />
-
-**🔧 Backend**
-
+<table>
+<tr>
+<td width="25%"><b>⚡ Frontend</b></td>
+<td><img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,bootstrap,html,css" alt="frontend" /></td>
+</tr>
+<tr>
+<td><b>🔧 Backend</b></td>
+<td>
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" alt="backend" />&nbsp;
 <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="socketio" height="48" />
-
-**🗄️ Database & Cloud**
-
+</td>
+</tr>
+<tr>
+<td><b>🗄️ Database & Cloud</b></td>
+<td>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" alt="database" />&nbsp;
 <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="cloudinary" height="48" />
-
-**🖥️ Desktop · 🔗 Tools**
-
-<img src="https://skillicons.dev/icons?i=electron,git,github,postman,vscode" alt="tools" />
+</td>
+</tr>
+<tr>
+<td><b>🖥️ Desktop & Tools</b></td>
+<td><img src="https://skillicons.dev/icons?i=electron,git,github,postman,vscode" alt="tools" /></td>
+</tr>
+</table>
 
 ---
 
+<!-- ═════════════════════════ PROJECTS ═════════════════════════ -->
 ## 🚀 Featured Projects
 
 <table>
@@ -79,7 +93,7 @@ const udit = {
 `Next.js` `Electron.js` `Node.js` `MongoDB` `Firebase` `Ably`
 
 - Attendance, leave requests, interviews, business development & employee dashboards
-- Independently built the **Electron desktop chat app** with real-time messaging & Firebase push notifications
+- Built the **Electron desktop chat app** end to end, with real-time messaging & Firebase push notifications
 - Migrated **161 APIs** from a legacy PHP backend to Node.js
 
 </td>
@@ -91,7 +105,7 @@ const udit = {
 `React` `TypeScript` `Node.js` `Express` `MongoDB` `Cloudinary` `JWT`
 
 - Product catalogs, blogs, careers, events & member dashboards
-- Built REST APIs, **admin dashboard**, JWT auth & role-based access
+- **My part:** REST APIs, **admin dashboard**, JWT auth & role-based access
 - Cloud media management & automated email workflows
 
 </td>
@@ -106,7 +120,7 @@ const udit = {
 
 - Customer, kitchen & admin dashboards with auth & order management
 - **Real-time order tracking** via Socket.IO
-- **Razorpay** payments, Cloudinary uploads, Redux Toolkit Query
+- **My part:** admin dashboard, **Razorpay** payments, Cloudinary uploads, Redux Toolkit Query
 
 </td>
 <td width="50%" valign="top">
@@ -127,6 +141,7 @@ const udit = {
 
 ---
 
+<!-- ═════════════════════════ GITHUB STATS ═════════════════════════ -->
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -144,12 +159,13 @@ const udit = {
 
 ---
 
+<!-- ═════════════════════════ EXPERIENCE ═════════════════════════ -->
 ## 💼 Experience
 
-| Period | Role | Company |
-|:--|:--|:--|
-| **Dec 2025 – Present** | Web Developer | Bitmax Technology Pvt. Ltd., Noida |
-| **Aug 2025 – Nov 2025** | Web Developer Intern | Keplernet Infotech, Prayagraj |
+| Period | Role | Company | Highlights |
+|:--|:--|:--|:--|
+| **Dec 2025 – Present** | Web Developer | Bitmax Technology Pvt. Ltd., Noida | Attendance system & office chat app (35 users), 161 APIs migrated PHP → Node.js |
+| **Aug 2025 – Nov 2025** | Web Developer Intern | Keplernet Infotech, Prayagraj | 15 backend APIs (Node.js + MongoDB), API testing & integration |
 
 ## 🎓 Education
 
@@ -157,6 +173,7 @@ const udit = {
 
 ---
 
+<!-- ═════════════════════════ CONNECT ═════════════════════════ -->
 ## 🤝 Let's Connect
 
 I'm always up for talking about web development, real-time systems, or a good project idea.
